@@ -14,7 +14,7 @@ import java.util.Set;
 public class ConversorMonedas {
 
     // API key inline (tal como la compartiste)
-    private static final String API_KEY_INLINE = "aa1d3bbfd592b5def2124800";
+    private static final String API_KEY_INLINE = "Introducir aqui su API KEY";
 
     // Endpoint base (tu ejemplo: https://v6.exchangerate-api.com/v6/<KEY>/latest/USD)
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";

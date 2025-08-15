@@ -29,7 +29,7 @@ Este proyecto es una aplicación escrita en Java que permite convertir valores e
 ```
 Challenge Conversor de Monedas/
 ├─ src/
-│  └─ Main.java
+│  └─ ConversorMonedas.java
 ├─ gson.jar
 ├─ README.md
 └─ ...
