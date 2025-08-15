@@ -84,6 +84,10 @@ java  -cp ".:out:gson.jar" ConversorMonedas
 
 ---
 
+https://github.com/user-attachments/assets/e1f89b22-6a1a-4488-92cd-b099a4a80ef4
+
+
+
 ## 💱 Monedas soportadas (por defecto)
 ```
 USD, ARS, BOB, BRL, CLP, COP, EUR, MXN, PEN, PYG, UYU, GBP, CAD, JPY, CHF
